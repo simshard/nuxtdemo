@@ -1,9 +1,9 @@
 <template>
     <div>this is about page</div>
 </template>
-<script>
+<script setup>
 // This will work in both `<script setup>` and `<script>`
-// definePageMeta({
-//   layout: "custom",
-// });
+definePageMeta({
+  layout: "custom",
+});
 </script>
