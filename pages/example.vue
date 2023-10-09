@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="container mx-auto bg-gray-300 p-8">
     <div><h1>this is example page</h1> </div>
      <hr>
      <Counter />
