@@ -10,18 +10,7 @@
         <div>Andre Madarang</div>
       </div>
       <div class="post-content mt-4">
-        {{ $route.params.id }} Lorem ipsum dolor sit amet consectetur adipisicing
-        elit. Id error soluta facere deleniti, odio officiis aperiam eius, fugit
-        rerum aliquid quaerat nemo aliquam tempora quidem veritatis mollitia
-        corrupti alias nulla cumque quisquam excepturi? Repellendus, quibusdam!
-        Ducimus reprehenderit, ab enim eveniet, a ad dolores corporis ut voluptate
-        aspernatur dolor voluptatum. Inventore aut repellat quidem! Similique odit
-        molestias placeat perspiciatis voluptatem tempore ipsum iusto blanditiis,
-        facilis repudiandae quae magnam labore libero quis voluptas nisi omnis,
-        saepe minima! Esse, vitae ducimus corrupti explicabo dignissimos magnam
-        itaque excepturi totam quam corporis autem consectetur quisquam distinctio
-        commodi reiciendis recusandae nesciunt nostrum harum delectus!
-        Voluptatibus, maxime?
+        <span class="text-emerald-500 font-black ">{{ $route.params.id }}</span> Esse aute pariatur magna veniam do ex labore est. Elit aute in adipisicing dolore cillum aute voluptate nostrud ex cupidatat nulla est. Sunt magna ut esse fugiat duis sunt incididunt eiusmod exercitation tempor magna labore.
       </div>
     </div>
   </template>
