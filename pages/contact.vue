@@ -10,5 +10,6 @@
   </template>
   
   <script setup>
-  const title = useState('title')
+    
+  
   </script>
