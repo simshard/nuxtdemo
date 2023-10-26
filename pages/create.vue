@@ -51,6 +51,7 @@
   async function createPost() {
     isLoading.value = true
     try {
+ 
       const post = await useNuxtApp().$apiFetch(`/api/post`, {
         method: 'POST',
         body: {
